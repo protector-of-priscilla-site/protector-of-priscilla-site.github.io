@@ -1,0 +1,55 @@
+.comicbackground{
+    background-color:black;
+    height:450%; 
+    width:100%;
+}
+.img{
+    height:95%;
+    width:80%;
+    margin:0 auto; 
+    background-image: url("comic3.png"); 
+    background-repeat: no-repeat;
+    right: 700;
+    float: center;
+}
+.p{
+    font-style: italic;
+    color: lightgrey;
+    font-size: 200%;
+ }
+
+.n{
+    font-style: italic;
+    color: white;
+    font-size: 200%; 
+    text-decoration: underline black;
+}
+.left{
+    width:25%;
+    height: 1%;
+    text-align: center;
+    position: absolute;
+    right:800;
+}
+.center{  
+    width:15%;
+    height: 1%;
+    text-align: center;
+    position: absolute; 
+    right:550;
+}
+.centert{  
+    width:15%;
+    height: 1%;
+    text-align: center;
+    position: absolute;
+    right:550;
+    bottom: -2160;  
+}
+.right{
+    width:15%;
+    height: 1%;
+    text-align: center;
+    position: absolute;
+    right:200;
+}

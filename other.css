@@ -1,0 +1,63 @@
+.comicbackground{
+    background-color:black;
+    height:246%; 
+    width:100%;
+}
+.img{
+    height:88.6%;
+    width:70%;
+    margin:0 auto; 
+    background-repeat: no-repeat;
+    right: 700;
+    float: center;
+}
+#imgone{
+    background-image: url("other1.png"); 
+}
+#imgtwo{
+    background-image: url("other2.png"); 
+}
+#imgthree{
+    background-image: url("other3.png"); 
+}
+.p{
+    font-style: italic;
+    color: lightgrey;
+    font-size: 200%;
+ }
+
+.n{
+    font-style: italic;
+    color: white;
+    font-size: 200%; 
+    text-decoration: underline black;
+}
+.left{
+    width:25%;
+    height: 1%;
+    text-align: center;
+    position: absolute;
+    right:800;
+}
+.center{  
+    width:15%;
+    height: 1%;
+    text-align: center;
+    position: absolute; 
+    right:550;
+}
+.centert{  
+    width:15%;
+    height: 1%;
+    text-align: center;
+    position: absolute;
+    right:550;
+    bottom: -835;  
+}
+.right{
+    width:15%;
+    height: 1%;
+    text-align: center;
+    position: absolute;
+    right:200;
+}

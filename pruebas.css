@@ -1,0 +1,80 @@
+.todo{
+    height:100%;
+    width: 100%;
+    background-image: url("1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.caja{
+    background-color:white;
+    margin: 0 auto;
+    height:100%;
+    width: 70%;
+    overflow:hidden;
+}
+.izquierdai{
+      width: 40% ;
+      height: 15% ;
+      float: left ;
+}
+.izquierdao{
+      width: 33% ;
+      height: 95% ;
+      float: left ;
+}
+.centro{
+    width: 33% ;
+    height: 25% ;
+    margin: 0 auto;
+    background-image: url("gallery.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.derechai{
+    width: 40% ;
+    height: 15% ;
+    float: right ;
+}
+.derechao{
+    width: 33% ;
+    height: 95% ;
+    float: right ;
+}
+.chibi{
+    height: 13%;
+    width: 25%;
+    float: left;
+}
+.imgone{
+    height: 75%;
+    width: 100%;
+    float: right;
+}
+.imgtwo{
+    height: 75%;
+    width: 100%;
+    float: left;
+}
+.subtitle{
+    font-size: 130%;
+    color: black;
+    text-decoration: underline black;
+    text-align: center;
+}
+.daga{
+    position: absolute;
+    top: 20%;
+    right: 25%; 
+    height: 80% ;
+    width: 50% ;
+}
+.space{
+    width: 70%;
+    height: 6%;
+    float: left;
+}
+.hrefbox{
+    width: 70%;
+    height: 0.1%;
+    float: left;
+}

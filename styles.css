@@ -1,0 +1,72 @@
+
+.side{
+    margin-top: 0 auto;
+    float:left;
+    height:119.79%;
+    width:80.6%;
+}
+.select{
+    margin-top: 0 auto;
+    float: right ;
+     width:18.8%;
+     height:38.7%;
+     border: 4px solid black;
+   
+}
+#uno{
+    background-image: url("window.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#dos{
+    background-image: url("alternative.png") ;  
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#tres{
+    background-image: url("pris.png") ;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.titles{
+    font-size: 320%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:white;
+    text-decoration-line: underline;
+    text-shadow: -1.5px 0 grey, 0 1.5px grey, 1.5px 0 grey, 0 -1.5px grey; 
+}
+#Subreddit{
+    text-align: center;
+    position: absolute;
+    bottom: 530;
+    right: 50;
+    
+    /*font-style: italic;*/
+}
+#and{
+    text-align: center;
+    position: absolute;
+    bottom: 485;
+    right:150;
+    
+    /*font-style: italic;*/
+}
+#Discord{
+    text-align: center;
+    position: absolute;
+    bottom: 435;
+    right: 84;
+    
+    /*font-style: italic;*/
+}
+#gallery{
+    
+    text-align: center;
+    position: absolute;
+    bottom: -150;
+    right:30;
+}
+#rules{
+    position:absolute;
+    bottom: 100;
+}
